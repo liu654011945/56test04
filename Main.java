@@ -8,5 +8,7 @@ public class Main
 
 		System.out.println("我是小弟 这是我的第一个版本");
 
+		System.out.println("我是小弟 这是我的第二个版本");
+
 	}
 }
